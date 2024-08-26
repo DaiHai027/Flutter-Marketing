@@ -1,8 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">Flutter Grocery App</h3>
@@ -19,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Sameera-Perera/Flutter-Grocery-App.git
+   git clone https://github.com/DaiHai027/Flutter-Marketing.git
    ```
 2. Install packages
    ```sh
